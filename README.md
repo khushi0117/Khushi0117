@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently learning **Pandas**
 
-- 💻Tech Stack and Tools:
+**💻Tech Stack and Tools:**
 
 **Data and BI Tools**
 - SQL (MySQL, PostgreSQL, BigQuery)
