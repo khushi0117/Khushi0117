@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
-
 
 <!--
 **khushi0117/Khushi0117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
