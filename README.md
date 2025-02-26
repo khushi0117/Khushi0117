@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khushi Kumari</h1>
 <h3 align="center">I'm a passionate Data Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi0117&label=Profile%20views&color=0e75b6&style=flat" alt="khushi0117" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khushi0117" alt="khushi0117" /></a> </p>
-
-- 🌱 I’m currently learning **Pandas**
-
 - **Data Analyst | Power BI | SQL | Excel and Google Sheets | GitHub Enthusiast**
+  
+- 🌱 I’m currently learning **Pandas**
 
 - 💻Tech Stack and Tools:
 
