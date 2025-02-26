@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Kumari</h1>
 <h3 align="center">I'm a passionate Data Analyst from India</h3>
 
-**Data Analyst | Power BI | SQL | Excel and Google Sheets | GitHub Enthusiast**
+<h2 align="center">**Data Analyst | Power BI | SQL | Excel and Google Sheets | GitHub Enthusiast**</h2>
   
 - 🌱 I’m currently learning **Pandas**
 
