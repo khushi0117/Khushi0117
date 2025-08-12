@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khushi Kumari</h1>
 <h3 align="center">I'm a passionate Data Analyst </h3>
 
-<h2 align="center">Data Analyst | Power BI | SQL | Excel and Google Sheets | GitHub Enthusiast</h2>
+<h2 align="center">Data Analyst | Power BI | SQL | Excel and Google Sheets | GitHub | ML Enthusiast</h2>
   
-- 🌱 I’m currently learning **Pandas**
+- 🌱 I’m currently learning **Machine Laerning**
 
 **💻Tech Stack and Tools:**
 
@@ -12,12 +12,7 @@
 - Power BI and DAX
 - Excel and Google Sheets
 - Python (Pandas)
-- Tableau (Exploring)
-
-**Development and Version Control**
-- Git and GitHub
-- HTML, CSS, JavaScript
-- Full Stack Development (Beginner Level)
+- Machine Learning (Exploring)
 
 ### Soft Skills
 - Analytical Thinking
