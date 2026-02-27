@@ -12,8 +12,10 @@ Hi, I’m Khushi Kumari 👋 A Computer Science student who loves data analytics
 ![](https://nirzak-streak-stats.vercel.app/?user=khushi0117&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khushi0117&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=khushi0117&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khushi0117&theme=github_dark" />
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=khushi0117&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
